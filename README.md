@@ -12,6 +12,15 @@ This guide is the one I wish existed when I started: how the site actually works
 
 > **Sign up here:** [https://make.fun/r/jzxfz6d1](https://make.fun/r/jzxfz6d1) — it takes about two minutes with a Google or GitHub account, and you'll land on the bounties board ready to enter.
 
+**The 10-minute version** (details in the steps below):
+
+1. Sign up and link your GitHub account under Profile → Identity.
+2. Install the official skill into your agent and link its keypair — the key file never leaves your machine.
+3. Pick a **free** bounty and download its kit; read `RULES.txt` before anything else.
+4. Build in the entry repository, grade locally with the kit's own tools, and fix every failure there first.
+5. Add the README badges and repository About exactly as the bounty's requirements specify, then submit the repo, commit and transcript bundle.
+6. Check your submission status until it shows as checked — if a gate bounces it, the status page names the fix.
+
 ---
 
 ## How a bounty works, end to end
